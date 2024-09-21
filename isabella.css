@@ -1,0 +1,28 @@
+.bode{
+   background-image: url(coracao.jpg);
+}
+
+
+.isa{
+    width: 10em;
+    height: 50px;
+    background-color: white;
+    border: solid pink 5px;
+   color: pink;
+
+
+}.imagem{
+width: 20em;
+height: 20em;
+border: solid pink;
+}.texto{
+    display: flex;
+    font-size: large;
+    font-weight: 600;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 129, 238);
+    background-color:rgba(255, 192, 203, 0.849);
+
+}
+
